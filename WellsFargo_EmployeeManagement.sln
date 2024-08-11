@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellsFargo_EmployeeManagement", "WellsFargo_EmployeeManagement\WellsFargo_EmployeeManagement.csproj", "{C1EF0E24-212F-4AEF-9436-7741648B8B44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellsFargo.EmployeeManagement.BusinessObjects", "WellsFargo.EmployeeManagement.BusinessObjects\WellsFargo.EmployeeManagement.BusinessObjects.csproj", "{BD97B4C5-C258-425A-BA26-C52C5A56D1A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellsFargo.EmployeeManagement.DatabaseLogic", "WellsFargo.EmployeeManagement.DatabaseLogic\WellsFargo.EmployeeManagement.DatabaseLogic.csproj", "{AFEE2EB6-1D44-4C84-88CD-35C33DDA863B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellsFargo.EmployeeManagement.RepositoryLayer", "WellsFargo.EmployeeManagement.RepositoryLayer\WellsFargo.EmployeeManagement.RepositoryLayer.csproj", "{C763860D-4EAF-4E52-98AD-F6D2CDE985B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellsFargo.EmployeeManagement.ServiceLayer", "WellsFargo.EmployeeManagement.ServiceLayer\WellsFargo.EmployeeManagement.ServiceLayer.csproj", "{D7E55D45-1D11-4460-8170-1B71E85CC617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1EF0E24-212F-4AEF-9436-7741648B8B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1EF0E24-212F-4AEF-9436-7741648B8B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1EF0E24-212F-4AEF-9436-7741648B8B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1EF0E24-212F-4AEF-9436-7741648B8B44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD97B4C5-C258-425A-BA26-C52C5A56D1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD97B4C5-C258-425A-BA26-C52C5A56D1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD97B4C5-C258-425A-BA26-C52C5A56D1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD97B4C5-C258-425A-BA26-C52C5A56D1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFEE2EB6-1D44-4C84-88CD-35C33DDA863B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEE2EB6-1D44-4C84-88CD-35C33DDA863B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEE2EB6-1D44-4C84-88CD-35C33DDA863B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEE2EB6-1D44-4C84-88CD-35C33DDA863B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C763860D-4EAF-4E52-98AD-F6D2CDE985B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C763860D-4EAF-4E52-98AD-F6D2CDE985B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C763860D-4EAF-4E52-98AD-F6D2CDE985B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C763860D-4EAF-4E52-98AD-F6D2CDE985B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E55D45-1D11-4460-8170-1B71E85CC617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E55D45-1D11-4460-8170-1B71E85CC617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E55D45-1D11-4460-8170-1B71E85CC617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E55D45-1D11-4460-8170-1B71E85CC617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A191882-18A4-4CB3-A6DF-537FFB924DBD}
+	EndGlobalSection
+EndGlobal
